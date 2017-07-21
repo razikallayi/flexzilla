@@ -1,0 +1,38 @@
+.theme-project .navbar {
+  background-color: #ff0e00; }
+.theme-project .navbar-brand {
+  color: #fff; }
+  .theme-project .navbar-brand:hover {
+    color: #fff; }
+  .theme-project .navbar-brand:active {
+    color: #fff; }
+  .theme-project .navbar-brand:focus {
+    color: #fff; }
+.theme-project .nav > li > a {
+  color: #fff; }
+  .theme-project .nav > li > a:hover {
+    background-color: transparent; }
+  .theme-project .nav > li > a:focus {
+    background-color: transparent; }
+.theme-project .nav .open > a {
+  background-color: transparent; }
+  .theme-project .nav .open > a:hover {
+    background-color: transparent; }
+  .theme-project .nav .open > a:focus {
+    background-color: transparent; }
+.theme-project .bars {
+  color: #fff; }
+.theme-project .sidebar .menu .list li.active {
+  background-color: transparent; }
+  .theme-project .sidebar .menu .list li.active > :first-child i, .theme-project .sidebar .menu .list li.active > :first-child span {
+    color: #ff0e00; }
+.theme-project .sidebar .menu .list .toggled {
+  background-color: transparent; }
+.theme-project .sidebar .menu .list .ml-menu {
+  background-color: transparent; }
+.theme-project .sidebar .legal {
+  background-color: #fff; }
+  .theme-project .sidebar .legal .copyright a {
+    color: #ff0e00 !important; }
+
+/*# sourceMappingURL=theme-project.css.map */

@@ -1,0 +1,51 @@
+﻿.table-wrapper {
+  overflow-x: scroll;
+}
+
+/* Limit image width to avoid overflow the container */
+#CropperImage {
+  max-width: 100%; /* This rule is very important, please do not ignore this! */
+  max-height: 100%; /* This rule is very important, please do not ignore this! */
+}
+
+ 
+.login-page {
+  background-color: #252b2b;
+  padding-left: 0;
+  max-width: 360px;
+  margin: 8% auto;
+  overflow-x: hidden;
+}
+
+
+.login-page .login-box .logo {
+  margin-bottom: 0px; 
+}
+
+#ImageInput{
+  max-width:75px;
+  max-height:70px;
+  overflow:hidden;
+  cursor:pointer;
+  font-size: 5em;
+}
+
+
+
+.switch-two-way label .lever {
+  background-color: #9fa8da;
+}
+
+
+.switch-two-way label .lever:after {
+  background-color: #3f51b5;
+}
+
+.bg-project,.bg-project h2{
+ background-color:#333 !important;
+color:#FFF !important;
+}
+
+.arabic_input{
+  direction:rtl;
+}
